@@ -1,0 +1,19 @@
+Fluids
+Name	Id	Viscosity	Bounded	Change Wettability
+water	0	0.37	0	false
+
+Surface tension
+Fluid id pair	Value
+
+Fluid config
+Name	Unified
+Contained fluid id	0
+Wetting fluid id	0
+
+FlowDirection	X
+
+One point results
+AbsolutePermeability	1563.48
+
+Processes
+

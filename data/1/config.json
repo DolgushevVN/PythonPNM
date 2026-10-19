@@ -1,0 +1,28 @@
+{
+    "flow_direction": "x",
+    "has_preprocessing": false,
+    "statoil_prefix_path": "/tmp/inout/input",
+    "result_filename": "/tmp/inout/result.txt",
+    "solids": [
+        {
+            "name": "1",
+            "id": 1
+        }
+    ],
+    "shape_model": "use_shape_factor",
+    "fluids": [
+        {
+            "name": "water",
+            "viscosity": 0.37,
+            "bounded": 0.0
+        }
+    ],
+    "input_filenames": [
+        "input_node1.dat",
+        "input_node2.dat",
+        "input_link1.dat",
+        "input_link2.dat",
+        "input_node3.dat",
+        "input_link3.dat"
+    ]
+}
